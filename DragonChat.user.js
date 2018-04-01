@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dragons Chat Script
 // @namespace    http://tampermonkey.net/
-// @version      0.10
+// @version      0.11
 // @description  try to take over the world!
 // @author       Mohnki
 // @match        https://w11.crownofthegods.com/*
